@@ -1,0 +1,39 @@
+
+        body {
+            font-family: Comic Sans MS, sans-serif;
+            background-color: lightseagreen;
+            color: rgb(98, 0, 255);
+        }
+
+        header {
+            background-color: rgb(54, 172, 43);
+            color: cyan;
+            text-align: center;
+        }
+
+        header h1 {
+            font-size: 36px;
+            font-weight: bold;
+            color: cyan;
+        }
+        
+        h2 {
+            color: mediumslateblue;
+            font-size: 28px;
+            font-weight: normal;
+        }
+
+        p, li { 
+            font-size: 17px;
+        }
+        
+        footer {
+            text-align: center;
+            font-size: 14px;
+            color: cyan;
+        }
+
+        footer a {
+            color: #0077cc;
+            font-weight: bold;
+        }
